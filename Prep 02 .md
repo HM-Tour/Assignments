@@ -1,6 +1,9 @@
 
 # HM-Tour
 
+
+## Team Members:
+
 - Ibrahim almanaseer
 - Nour Alkhateeb
 - Osama elddadow
@@ -8,9 +11,6 @@
 - Mohammad Alhanoti
 
 
-## Team Members:
-
-- Ibrahim Alman
 
 ## Wireframe
 
