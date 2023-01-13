@@ -37,8 +37,7 @@
 3. Users can update and delete their posts from his/her profile.
 
 # Data Flow:
-![DataFlow](./Img/Data%20Flow.jpg)
-
+![DataFlow](https://user-images.githubusercontent.com/89543155/212413676-0db021ba-f7bc-41a1-959b-97448b46fbcf.jpg)
 
 # Non-Functional Requirements:
 1. **Security**: Use an Authentication, so users can access their posts every time login, Auth0.
