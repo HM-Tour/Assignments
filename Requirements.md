@@ -13,6 +13,7 @@
 - Each post will contain user's comments.
 
 
+
 ## OUT:
 - Audio/video calls
 - Not have mobile apps(IOS, Android)
