@@ -1,3 +1,5 @@
 # Assignments
 
-- [prep 01](https://github.com/HM-Tour/Assignments/Prep01)
+- [prep 01](Prep01.md)
+- [prep 02](Prep02.md)
+- [Requirements](Requirements.md)
